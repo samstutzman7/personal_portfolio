@@ -14,14 +14,14 @@ const Hero = () => {
         <div className='flex flex-col justify-center 
         items-center mt-5'>
           <div className='w-5 h-5 rounded-full 
-          bg-[#915eff]' />
+          bg-[#0ABAB5]' />
           <div className='w-1 sm:h-80 h-40 
-          violet-gradient' />
+          tiffany-gradient' />
         </div>
 
         <div>
           <h1 className={`${styles.heroHeadText} text-whtie`}
-          >Hi, I'm <span className='text-[#915eff]'>Sam</span></h1>
+          >Hi, I'm <span className='text-[#0ABAB5]'>Sam</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I am a junior at the University of Iowa, <br 
             className='sm:block hidden'/>and I am studying 
